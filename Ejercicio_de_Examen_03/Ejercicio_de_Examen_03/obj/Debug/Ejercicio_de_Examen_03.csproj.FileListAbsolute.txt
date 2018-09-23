@@ -1,0 +1,14 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03NO\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\bin\Debug\Ejercicio_de_Examen_03.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_03\Ejercicio_de_Examen_03\obj\Debug\Ejercicio_de_Examen_03.pdb

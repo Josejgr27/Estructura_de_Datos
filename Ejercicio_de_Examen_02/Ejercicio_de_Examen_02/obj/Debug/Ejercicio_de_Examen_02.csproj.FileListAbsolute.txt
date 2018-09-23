@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\bin\Debug\Ejercicio_de_Examen_02.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\bin\Debug\Ejercicio_de_Examen_02.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\bin\Debug\Ejercicio_de_Examen_02.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\obj\Debug\Ejercicio_de_Examen_02.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\obj\Debug\Ejercicio_de_Examen_02.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\obj\Debug\Ejercicio_de_Examen_02.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Examen de Eestructura de datos\Ejercicio_de_Examen_02\Ejercicio_de_Examen_02\obj\Debug\Ejercicio_de_Examen_02.pdb
