@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\bin\Debug\Ejercicio 2-1.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\bin\Debug\Ejercicio 2-1.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\bin\Debug\Ejercicio 2-1.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\obj\Debug\Ejercicio 2-1.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\obj\Debug\Ejercicio 2-1.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\obj\Debug\Ejercicio 2-1.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Ejercicio 2-1\Ejercicio 2-1\obj\Debug\Ejercicio 2-1.pdb
