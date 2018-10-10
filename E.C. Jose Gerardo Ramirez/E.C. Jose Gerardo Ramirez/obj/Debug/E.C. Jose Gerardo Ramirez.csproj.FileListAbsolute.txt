@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\bin\Debug\E.C.Jose_Gerardo_Ramirez.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\bin\Debug\E.C.Jose_Gerardo_Ramirez.exe
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\bin\Debug\E.C.Jose_Gerardo_Ramirez.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\obj\Debug\E.C. Jose Gerardo Ramirez.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\obj\Debug\E.C. Jose Gerardo Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\obj\Debug\E.C.Jose_Gerardo_Ramirez.exe
+C:\Users\FirstCash\Documents\Estructura de datos\E.C. Jose Gerardo Ramirez\E.C. Jose Gerardo Ramirez\obj\Debug\E.C.Jose_Gerardo_Ramirez.pdb
