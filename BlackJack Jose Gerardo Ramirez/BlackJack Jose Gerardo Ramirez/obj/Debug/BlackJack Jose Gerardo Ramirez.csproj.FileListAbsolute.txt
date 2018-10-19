@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\bin\Debug\BlackJack Jose Gerardo Ramirez.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\bin\Debug\BlackJack Jose Gerardo Ramirez.exe
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\bin\Debug\BlackJack Jose Gerardo Ramirez.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\obj\Debug\BlackJack Jose Gerardo Ramirez.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\obj\Debug\BlackJack Jose Gerardo Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\obj\Debug\BlackJack Jose Gerardo Ramirez.exe
+C:\Users\FirstCash\Documents\Estructura de datos\BlackJack Jose Gerardo Ramirez\BlackJack Jose Gerardo Ramirez\obj\Debug\BlackJack Jose Gerardo Ramirez.pdb
