@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\bin\Debug\EXAMENunidad3.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\bin\Debug\EXAMENunidad3.exe
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\bin\Debug\EXAMENunidad3.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\obj\Debug\EXAMENunidad3.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\obj\Debug\EXAMENunidad3.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\obj\Debug\EXAMENunidad3.exe
+C:\Users\FirstCash\Documents\Estructura de datos\EXAMENunidad3\EXAMENunidad3\obj\Debug\EXAMENunidad3.pdb
