@@ -1,0 +1,7 @@
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\bin\Debug\Ejercicio3PE Jose Gerardo U3.exe.config
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\bin\Debug\Ejercicio3PE Jose Gerardo U3.exe
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\bin\Debug\Ejercicio3PE Jose Gerardo U3.pdb
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\obj\Debug\Ejercicio3PE Jose Gerardo U3.csprojAssemblyReference.cache
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\obj\Debug\Ejercicio3PE Jose Gerardo U3.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\obj\Debug\Ejercicio3PE Jose Gerardo U3.exe
+C:\Users\FirstCash\source\repos\Ejercicio3PE Jose Gerardo U3\Ejercicio3PE Jose Gerardo U3\obj\Debug\Ejercicio3PE Jose Gerardo U3.pdb
