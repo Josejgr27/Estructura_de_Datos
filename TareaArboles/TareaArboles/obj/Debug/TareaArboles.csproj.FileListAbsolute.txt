@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\bin\Debug\TareaArboles.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\bin\Debug\TareaArboles.exe
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\bin\Debug\TareaArboles.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\obj\Debug\TareaArboles.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\obj\Debug\TareaArboles.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\obj\Debug\TareaArboles.exe
+C:\Users\FirstCash\Documents\Estructura de datos\TareaArboles\TareaArboles\obj\Debug\TareaArboles.pdb
