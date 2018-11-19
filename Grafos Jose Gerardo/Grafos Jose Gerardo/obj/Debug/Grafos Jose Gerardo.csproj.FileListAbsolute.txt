@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\bin\Debug\Grafos Jose Gerardo.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\bin\Debug\Grafos Jose Gerardo.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\bin\Debug\Grafos Jose Gerardo.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\obj\Debug\Grafos Jose Gerardo.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\obj\Debug\Grafos Jose Gerardo.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\obj\Debug\Grafos Jose Gerardo.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Grafos Jose Gerardo\Grafos Jose Gerardo\obj\Debug\Grafos Jose Gerardo.pdb
