@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.pdb
