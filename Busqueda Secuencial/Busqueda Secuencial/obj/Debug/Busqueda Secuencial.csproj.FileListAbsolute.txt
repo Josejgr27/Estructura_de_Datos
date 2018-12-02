@@ -1,0 +1,7 @@
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.csprojAssemblyReference.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe.config
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.pdb
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.exe
+C:\Users\FirstCash\Documents\Estructura de datos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.pdb
