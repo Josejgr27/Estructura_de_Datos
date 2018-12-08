@@ -8,37 +8,37 @@ namespace BusquedaBinaria
 {
     class Operaciones
     {
-        private int[] Vector = {1,5,4,7,10,3,2,77,32,19 };
+        private int[] Vector = {1,5,4,7,10,3,2,77,32,19 }; // Valor inicializado ya con valores
 
 
-        public void Busqueda(int ValorBuscar)
+        public void Busqueda(int ValorBuscar) // Busqueda con caso base de internet para tener dos estructuras
         {
             int Inicial = 0, Final = 9;
-            int Contador = 0;
+            int Contador = 0;                     // Se declaran variables
             bool Verificar = false;
 
-            while (Inicial <= Final && Verificar == false)
+            while (Inicial <= Final && Verificar == false) // Mientras inicial sea menor o iguala  final y tambien verificar igual falso
             {
-                Contador = (Inicial + Final) / 2;
-                if (Vector[Contador] == ValorBuscar)
+                Contador = (Inicial + Final) / 2; // El contador es igual a inicial mas final sobre 2
+                if (Vector[Contador] == ValorBuscar) // Si el vector en el contador es igual al valor a buscar 
                 {
-                    Verificar = true;
+                    Verificar = true; // Verificar se cambia a true
                 }
 
-                if (Vector[Contador] > ValorBuscar)
+                if (Vector[Contador] > ValorBuscar) // si el vector en el valor contador es mayor al valor a buscar 
                 {
-                    Final = Contador - 1;
+                    Final = Contador - 1; // final es igual a contador - 1
                 }
 
                 else
                 {
-                    Inicial = Contador + 1;
+                    Inicial = Contador + 1; // si el vector en el valor contador es menor al valor a buscar 
                 }
 
             }
-            if (Verificar == false)
+            if (Verificar == false)  //Si verificar esta en false
             {
-                Console.Write("\nEl elemento {0} no se encuentra en el arreglo.", ValorBuscar);
+                Console.Write("\nEl elemento {0} no se encuentra en el arreglo.", ValorBuscar);                
             }
             else
             {
@@ -46,7 +46,7 @@ namespace BusquedaBinaria
             }
         }
 
-        public void Imprimir(int[] Arreglo)
+        public void Imprimir(int[] Arreglo) // Se imprime el arreglo que se le da en el parametro
         {
             Console.WriteLine("Su vector es: \n");
             for (int i = 0; i < Arreglo.Length; i++)
@@ -55,7 +55,7 @@ namespace BusquedaBinaria
             }
         }
 
-        public void Ejercicio2()
+        public void Ejercicio2() // Se hace una funcion del ejercicio 2
         {
             Console.Clear();
             Array.Sort(Vector);
@@ -71,7 +71,7 @@ namespace BusquedaBinaria
 
 
 
-        public void Ejercicio1()
+        public void Ejercicio1() // Metodo donde se llama el ejercicio 1
         {
         Tamaño:
             Console.Clear();
@@ -119,7 +119,7 @@ namespace BusquedaBinaria
             return Valor;
         }
 
-        public void BusquedaBinaria(int[] Arreglo, int ValorABuscar)
+        public void BusquedaBinaria(int[] Arreglo, int ValorABuscar) // en este metodo es casi como el metodo bsuqueda, pero en este tiene una estructura diferente
         {
             int Valorinicial = 1;
             int ValorFinal = Arreglo.Length;
@@ -153,7 +153,7 @@ namespace BusquedaBinaria
         }
 
 
-        public void MainMenu()
+        public void MainMenu() // Menu donde se implementan todos os metodos que se mandaran llamar, para solo llamar este metodo en el main menu
         {          
         Back:
             Console.Clear();

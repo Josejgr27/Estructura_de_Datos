@@ -10,8 +10,8 @@ namespace BusquedaBinaria
     {
         static void Main(string[] args)
         {
-            Operaciones Binarias = new Operaciones();
-            Binarias.MainMenu();
+            Operaciones Binarias = new Operaciones(); // Se declara el objeto
+            Binarias.MainMenu(); // Se manda llamar la funcion del menu
 
         }
     }
